@@ -11,7 +11,7 @@ public class SystemClass {
 	}
 	
 	public static void showMessage(){
-		System.out.println("Woonderful New Year 2021 with out deadly corona artifacts");
+		System.out.println("Woonderful New Year 2021 with out deadly crona");
 		
 	}
 	

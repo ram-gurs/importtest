@@ -26,6 +26,7 @@ public class SystemClass {
 		Iterator itr=myListOfCue.iterator();  
 		while(itr.hasNext()){  
 		System.out.println(itr.next());  
+		System.out.println("Complete");	
 		 }  
 		}  
 		
